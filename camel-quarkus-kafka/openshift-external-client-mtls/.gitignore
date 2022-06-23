@@ -1,3 +1,6 @@
 kafka-cert
 .idea
 .env
+target
+.DS_Store
+*.iml
